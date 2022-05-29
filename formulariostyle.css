@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	background-color: #C6DEC5;
+	font-size: 18px;
+}
+h1 {
+	margin: 0;
+	padding: 9px;
+	text-align: center;
+	color: #86A352;
+}
+fieldset {
+	margin: 0 20%;
+}
+fieldset, input[type="submit"], input[type="text"], input[type="email"], textarea {
+	border-color: #86A352;
+}
+input:focus, select:focus, textarea:focus {
+	background-color: #DDEBC8;
+}
+#button {
+	text-align: center;
+	margin: 1.5% 0;
+}
+#b:hover {
+	background-color: #DDEBC8;
+}
+#b {
+	background-color: #C6DEC5;
+}
